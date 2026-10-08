@@ -2,6 +2,7 @@
 
 ### File Structure
 
+```
 Project folder:
     - root(entire project folder)    
         - cmd
@@ -25,7 +26,7 @@ Project folder:
         - README.md
         - go.mod
         - go.*
-
+```
 
 
 ### Github
