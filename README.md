@@ -36,7 +36,7 @@ Project folder:
     - git add .
     - git commit -m "init"
     - git remote add origin <github_repo_url>
-    - git push
+    - git push <remote> <branch_name>
 
 
 
