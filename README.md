@@ -32,11 +32,12 @@ Project folder:
 
 1. Create a repository on github.com (hit the '+' icon or green 'New' button)
 2. Run git commands in command line
-    - git init
+    - git init (this command is to setup a git repo locally, only run once then skip this step)
     - git add .
-    - git commit -m "init"
-    - git remote add origin <github_repo_url>
+    - git commit -m "init" (only use "init" as the inital commit message, any messages after should be more descriptive. Can include notes on what progress has been made)
+    - git remote add origin <github_repo_url> (this command is to setup the remote, only run once then skip this step)
     - git push <remote> <branch_name>
+       e.g: git push origin main 
 
 
 
