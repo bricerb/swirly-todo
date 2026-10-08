@@ -44,11 +44,10 @@ Project folder:
 
 ### Command line commands
 
+```
 Make new folder(directory): mkdir <new_dir_name>
     e.g: mkdir internal/todos
 Create new file: type nul > <file_location_or_name>
     e.g: type nul > cmd/main.go
 Start a new Go Module: go mod init <project_name>
-
-
-
+```
